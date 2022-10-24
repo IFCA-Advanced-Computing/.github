@@ -1,4 +1,4 @@
-<img  align="right" src="https://ifca.github.io/images/logo.png" alt="IFCA Advanced Computing and e-Science Group" />
+<img width="50%"  align="right" src="https://ifca.github.io/images/logo.png" alt="IFCA Advanced Computing and e-Science Group" />
 
 Welcome to the GitHub organization of the
 [Advanced Computing and e-Science Group](https://computing.ifca.es) of the
