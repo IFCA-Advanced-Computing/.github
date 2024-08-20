@@ -1,10 +1,10 @@
-<img width="300" align="left" src="https://ifca.github.io/images/logo.png" alt="IFCA Advanced Computing and e-Science Group" />
+<img width="300" align="left" src="https://raw.githubusercontent.com/IFCA-Advanced-Computing/.github/main/profile/logo.png" alt="IFCA Advanced Computing and e-Science Group" />
 
 [![GitHub Org's stars](https://img.shields.io/github/stars/IFCA?style=social)](#)
 [![Twitter Follow](https://img.shields.io/twitter/follow/IFCA_Computing?style=social)](https://twitter.com/IFCA_Computing)
 
 Welcome to the GitHub organization of the
-[Advanced Computing and e-Science Group](https://computing.ifca.es) of the
+[Advanced Computing and e-Science Group](https://advancedcomputing.ifca.es) of the
 [Instituto de Física de Cantabria](https://ifca.unican.es) at the
 [Spanish National Research Council (CSIC)](https://www.csic.es) and the
 [University of Cantabria (UC)](https://web.unican.es).
