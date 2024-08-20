@@ -1,6 +1,5 @@
 <img width="300" align="left" src="https://raw.githubusercontent.com/IFCA-Advanced-Computing/.github/main/profile/logo.png" alt="IFCA Advanced Computing and e-Science Group" />
 
-[![GitHub Org's stars](https://img.shields.io/github/stars/IFCA?style=social)](#)
 [![Twitter Follow](https://img.shields.io/twitter/follow/IFCA_Computing?style=social)](https://twitter.com/IFCA_Computing)
 
 Welcome to the GitHub organization of the
